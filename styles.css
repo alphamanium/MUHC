@@ -36,3 +36,8 @@ html {
 .header .logo i {
   color: darkred;
 }
+
+.header .navbar {
+  font-size: 1.7rem;
+  margin-left: 2rem;
+}
